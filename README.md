@@ -1,5 +1,5 @@
 # my-digital-locker
-## developer : Akram Khan (Roll no. 180050006) CSE @IITB  
+## developer : Akshay Aglave (Roll no. 190020008)  
 
 Android app to store data in encrypted format
 
